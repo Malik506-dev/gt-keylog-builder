@@ -1,4 +1,4 @@
-GT Keylog Builder - Beta V2.0
+GT Keylog Builder - Beta V3.0
 For Educational & Authorized Testing Purposes Only
 
 Developer: Shadow
@@ -10,7 +10,7 @@ Requirements: (For .exe Compiling)
 Educational Purpose Disclaimer:
 This tool is a proof-of-concept for academic study in cybersecurity. It demonstrates how keyloggers operate so that developers and security professionals can better understand, detect, and prevent such threats. Misuse of this software to access systems without authorization is illegal and unethical. You are solely responsible for ensuring you comply with all applicable laws.
 
-Features:
+Features: (New Update 3.0)
 ✅ Keystroke Logging with Timestamps
 ✅ Automatic Screenshot Capture
 ✅ Audio Recording Capability
@@ -23,6 +23,9 @@ Features:
 ✅ Cross-Version Compatibility
 ✅ Embedded Branding & Links
 ✅ Auto EXE Compilation with PyInstaller
+✅ Data Sending Over Email (New)
+✅ Keylogger Auto Starts with Windows (New)
+
 
 Reference / Inspiration:
 This project was developed for research into endpoint detection and evasion techniques.
